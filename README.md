@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/ADBot.webp" width="200" height="auto" />
+	<img src="./Mosaique Joconde.webp" width="200" height="auto" alt="mosaique solitare par damso" />
 	<h1>🖽 Mosaïque Solitaire 🎨</h1>
   <p>Un script python qui remplace chaque pixel d'une image par une œuvre d'art.</p>
   <div>
@@ -60,11 +60,17 @@
   ```
   
   <br />
-  <p>2. Le script vous demandera d'entrer le nom de votre image d'entrée (avec son format) exemple : Mon Image.webp<br/>
+  <p>2. Le script vous demandera d'entrer le nom de votre image d'entrée (avec son format) exemple : Mona Lisa.webp<br/>
 Appuyez ensuite sur Entrée pour générer votre image qui sera disponible dans le même répertoire sous le nom "Output.jpg".</p>
   <br />
   <p>3. Profitez de la beauté de l'art sur votre appareil !</p>
-  
+  <!-- Screenshots -->
+### :camera: Screenshots
+
+<div align="center"> 
+  <img src="./Mosaique Joconde.web" alt="mosaique mona lisa" />
+</div>
+
   <h3>Note</h3>
   <p>Si vous relancez le script vos nouvelle images seront sera nommé "Output1.jpg", "Output2.jpg" etc.<br/> 
 	  Le script peut mettre du temps selon la taille de votre image.</p>
