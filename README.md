@@ -44,12 +44,7 @@
   ```
     
   <br />
-  <p>2. Mettez votre image d'entrée dans le même dossier que le script.</p>
-  
-  ```bash
-  pip install -r requirements.txt
-  ```
- 
+  <p>2. Mettez votre/vos image(s) d'entrée(s) dans le même dossier que le script.</p>
 </div>
 <br />
 <div>
