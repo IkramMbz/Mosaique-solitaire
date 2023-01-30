@@ -24,7 +24,7 @@ def initTiles(width, height):
         mean_color = np.array(tile).mean(axis=0).mean(axis=0)
         colors.append(mean_color)
 
-    return colors
+    return colors, tiles
 
 def initPicture(main_photo_path):
     tilesWidth = tilesHeight = 5
@@ -36,7 +36,8 @@ def initPicture(main_photo_path):
     resized_photo = main_photo.resize((width, height))  
 
     # Recherche de la tuile la plus proche pour chaque pixel.
-    tree = spatial.KDTree(initTiles(tilesWidth,tilesHeight))
+    colors, tiles = initTiles(tilesWidth,tilesHeight)
+    tree = spatial.KDTree(colors)
 
     # Recherche de la tuile la plus proche pour chaque pixel.
     closest_tiles = np.zeros((width, height), dtype=np.uint32)
@@ -50,7 +51,7 @@ def initPicture(main_photo_path):
     output = Image.new('RGB', main_photo.size)
     for i in range(width):
         for j in range(height):
-            x, y = i*tile_size[0], j*tile_size[1]
+            x, y = i*tilesWidth, j*tilesHeight
             index = closest_tiles[i, j]
             output.paste(tiles[index], (x, y))
 
