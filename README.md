@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="https://github.com/IkramMbz/IkramMbz/blob/main/assets/img/Mosaic%20Solitaire.webp" width="600" height="auto" alt="mosaique solitare par damso" />
 	<h1>🖽 Mosaïque Solitaire 🎨</h1>
-  <p>Un script python qui remplace chaque pixel d'une image par une œuvre d'art.</p>
+  <p>Un script python qui remplace chaque pixels d'une image par une œuvre d'art.</p>
   <div>
     <a href="https://github.com/IkramMbz">
       <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/contributeurs.svg" alt="contributors" />
