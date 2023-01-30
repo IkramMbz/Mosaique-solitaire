@@ -13,14 +13,12 @@
       <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/licence-cc0.svg" alt="cc0" />
     </a>
   </div>
-  <br />
-  <p align="left">Avant de lancer le code, il est important de noter que le nombre d'images téléchargées en haute résolution peut être très élevé. Veuillez vous assurer que vous avez suffisamment d'espace de stockage disponible sur votre disque dur pour stocker ces images, car il est possible que votre disque dur se remplisse rapidement.</p>
 </div>
 
 <br />
 <div>
   <h2>Dépendances</h2>
-  <p>Ce script Python utilise librairies suivantes :</p>
+  <p>Ce script Python utilise les librairies suivantes :</p>
   <ul>
     <li>Numpy</li>
     <li>Pillow</li>
@@ -63,12 +61,13 @@
   
   <br />
   <p>2. Le script vous demandera d'entrer le nom de votre image d'entrée (avec son format) exemple : Mon Image.webp<br/>
-Appuez ensuite sur Entrée pour générer votre image qui sera disponible dans le même répertoire sous le nom "Output.jpg".</p>
+Appuyez ensuite sur Entrée pour générer votre image qui sera disponible dans le même répertoire sous le nom "Output.jpg".</p>
   <br />
   <p>3. Profitez de la beauté de l'art sur votre appareil !</p>
   
   <h3>Note</h3>
-  <p>Si vous relancez le script vos nouvelle images seront sera nommé "Output1.jpg", "Output2.jpg" etc.</p>
+  <p>Si vous relancez le script vos nouvelle images seront sera nommé "Output1.jpg", "Output2.jpg" etc.<br/> 
+	  Le script peut mettre du temps selon la taille de votre image.</p>
 </div>
 
 <br />
