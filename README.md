@@ -20,6 +20,7 @@
   <h2>Dépendances</h2>
   <p>Ce script Python utilise les librairies suivantes :</p>
   <ul>
+    <li>Glob</li>
     <li>Numpy</li>
     <li>Pillow</li>
     <li>Python 3.x</li>
@@ -64,9 +65,6 @@
 Appuyez ensuite sur Entrée pour générer votre image qui sera disponible dans le même répertoire sous le nom "Output.jpg".</p>
   <br />
   <p>3. Profitez de la beauté de l'art sur votre appareil !</p>
-  <!-- Screenshots -->
-### :camera: Screenshots
-
 <div align="center"> 
   <img width="800" height="auto" src="https://github.com/IkramMbz/IkramMbz/blob/main/assets/img/Mosaic%20Joconde.webp" alt="mosaique mona lisa" />
 </div>
