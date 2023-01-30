@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/IkramMbz/IkramMbz/blob/main/assets/img/Mosaic%20Solitaire.webp" width="200" height="auto" alt="mosaique solitare par damso" />
+	<img src="https://github.com/IkramMbz/IkramMbz/blob/main/assets/img/Mosaic%20Solitaire.webp" width="400" height="auto" alt="mosaique solitare par damso" />
 	<h1>🖽 Mosaïque Solitaire 🎨</h1>
   <p>Un script python qui remplace chaque pixel d'une image par une œuvre d'art.</p>
   <div>
@@ -68,7 +68,7 @@ Appuyez ensuite sur Entrée pour générer votre image qui sera disponible dans 
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://github.com/IkramMbz/IkramMbz/blob/main/assets/img/Mosaic%20Joconde.webp" alt="mosaique mona lisa" />
+  <img width="1000" height="auto" src="https://github.com/IkramMbz/IkramMbz/blob/main/assets/img/Mosaic%20Joconde.webp" alt="mosaique mona lisa" />
 </div>
 
   <h3>Note</h3>
