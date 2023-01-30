@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./Mosaique Joconde.webp" width="200" height="auto" alt="mosaique solitare par damso" />
+	<img src="/Mosaique Solitaire.webp" width="200" height="auto" alt="mosaique solitare par damso" />
 	<h1>🖽 Mosaïque Solitaire 🎨</h1>
   <p>Un script python qui remplace chaque pixel d'une image par une œuvre d'art.</p>
   <div>
