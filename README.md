@@ -61,7 +61,7 @@
   ```
   
   <br />
-  <p>2. Le script vous demandera d'entrer le nom de votre image d'entrée (avec son format) exemple : Mona Lisa.webp<br/>
+  <p>2. Le script vous demandera d'entrer le nom de votre image d'entrée (avec son format) exemple : Mona Lisa.jpg ou Damso.webp<br/>
 Appuyez ensuite sur Entrée pour générer votre image qui sera disponible dans le même répertoire sous le nom "Output.jpg".</p>
   <br />
   <p>3. Profitez de la beauté de l'art sur votre appareil !</p>
