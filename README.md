@@ -44,7 +44,7 @@
   ```
     
   <br />
-  <p>2. Mettez votre/vos image(s) d'entrée(s) dans le même dossier que le script.</p>
+  <p>3. Mettez votre/vos image(s) d'entrée(s) dans le même dossier que le script.</p>
 </div>
 <br />
 <div>
