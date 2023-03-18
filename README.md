@@ -37,14 +37,18 @@
   ```
   
   <br />
-  <p>2. Installez les librairies requises.</p>
+
+  <p>2. Ouvrez un terminal et placez vous dans le dossier du projet.</p>
+  <br />
+
+  <p>3. Installez les librairies requises.</p>
   
   ```bash
   pip install -r requirements.txt
   ```
     
   <br />
-  <p>3. Mettez votre/vos image(s) d'entrée(s) dans le même dossier que le script.</p>
+  <p>4. Mettez votre/vos image(s) d'entrée(s) dans le même dossier que le script.</p>
 </div>
 <br />
 <div>
